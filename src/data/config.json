@@ -2,26 +2,27 @@
   "brand": {
     "font": "Outfit",
     "colors": {
-      "background": "hsl(222, 47%, 4%)",
-      "primary": "hsl(263, 97%, 60%)",
-      "secondary": "hsl(180, 100%, 50%)",
-      "glass": "hsl(210, 20%, 12% / 0.6)",
-      "text": "hsl(210, 20%, 98%)"
+      "primary": "hsl(230, 40%, 5%)",
+      "accent_cyan": "hsl(180, 100%, 50%)",
+      "accent_amethyst": "hsl(270, 80%, 60%)",
+      "surface_glass": "hsl(230, 30%, 15%)",
+      "text_alabaster": "hsl(0, 0%, 98%)",
+      "text_muted": "hsl(230, 20%, 70%)"
     },
     "logo_text": "Jiao Jiao"
   },
   "seo": {
-    "title": "Optima-Prime | Ultra-Premium Performance Optimization SaaS",
-    "description": "Experience the pinnacle of web performance. Optima-Prime leverages AI-driven optimization to transform your digital presence into a high-conversion engine."
+    "title": "Jiao-Jiao AI Factory | Aether-Flow Evolution",
+    "description": "High-conversion AI ecosystem for elite enterprises. Transitioning digital velocity into high-ticket revenue engines via Agentic Workflows and LLM Fine-tuning."
   },
   "pages": [
     {
       "id": "home",
       "blocks": [
-        "HeroSection",
-        "BentoFeatureGrid",
-        "InteractiveAnalysisDemo",
-        "LeadCaptureCTA"
+        "HeroBento",
+        "ExpertiseGrid",
+        "QuoteEngine",
+        "EliteAccessPortal"
       ]
     }
   ],
@@ -43,5 +44,5 @@
       "label": "Contacto"
     }
   ],
-  "updated_at": "2026-04-03T22:26:44.306Z"
+  "updated_at": "2026-04-03T23:24:16.126Z"
 }
