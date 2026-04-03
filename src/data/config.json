@@ -2,66 +2,26 @@
   "brand": {
     "font": "Outfit",
     "colors": {
-      "accent": "#fbbf24",
-      "layout": "elegant-gold",
-      "primary": "#f43f5e",
-      "secondary": "#450a0a"
+      "background": "hsl(222, 47%, 4%)",
+      "primary": "hsl(263, 97%, 60%)",
+      "secondary": "hsl(180, 100%, 50%)",
+      "glass": "hsl(210, 20%, 12% / 0.6)",
+      "text": "hsl(210, 20%, 98%)"
     },
     "logo_text": "Jiao Jiao"
   },
   "seo": {
-    "title": "Jiao Jiao - restaurant en Madrid",
-    "description": "Bienvenido a Jiao Jiao. Expertos en restaurant ubicados en Madrid. Calidad y confianza garantizada."
+    "title": "Optima-Prime | Ultra-Premium Performance Optimization SaaS",
+    "description": "Experience the pinnacle of web performance. Optima-Prime leverages AI-driven optimization to transform your digital presence into a high-conversion engine."
   },
   "pages": [
     {
       "id": "home",
-      "hero": {
-        "title": "Jiao Jiao",
-        "subtitle": "Tu experto local en restaurant en Madrid",
-        "button_text": "Reservar Cita"
-      },
-      "layout": "elegant-gold",
-      "contact": {
-        "email": "info@jiao-jiao.aifactory.dev",
-        "phone": "+34 643 98 70 36",
-        "address": "Madrid"
-      },
-      "pricing": [
-        {
-          "name": "Básico",
-          "price": "Económico",
-          "features": [
-            "Servicio estándar",
-            "Garantía 30 días"
-          ]
-        },
-        {
-          "name": "Premium",
-          "price": "Recomendado",
-          "features": [
-            "Prioridad máxima",
-            "Atención 24/7",
-            "Garantía extendida"
-          ]
-        }
-      ],
-      "features": [
-        {
-          "desc": "Priorizamos tu tiempo en Madrid.",
-          "icon": "Zap",
-          "title": "Atención Express"
-        },
-        {
-          "desc": "Seguridad y precisión en cada servicio de restaurant.",
-          "icon": "Shield",
-          "title": "Garantía Neural"
-        },
-        {
-          "desc": "Acabados y atención al detalle de alto nivel.",
-          "icon": "Star",
-          "title": "Calidad Premium"
-        }
+      "blocks": [
+        "HeroSection",
+        "BentoFeatureGrid",
+        "InteractiveAnalysisDemo",
+        "LeadCaptureCTA"
       ]
     }
   ],
@@ -83,5 +43,5 @@
       "label": "Contacto"
     }
   ],
-  "updated_at": "2026-04-03T21:54:48.923Z"
+  "updated_at": "2026-04-03T22:26:44.306Z"
 }
