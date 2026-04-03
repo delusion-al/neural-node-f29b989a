@@ -1,0 +1,87 @@
+{
+  "brand": {
+    "font": "Outfit",
+    "colors": {
+      "accent": "#fbbf24",
+      "layout": "elegant-gold",
+      "primary": "#f43f5e",
+      "secondary": "#450a0a"
+    },
+    "logo_text": "Jiao Jiao"
+  },
+  "seo": {
+    "title": "Jiao Jiao - restaurant en Madrid",
+    "description": "Bienvenido a Jiao Jiao. Expertos en restaurant ubicados en Madrid. Calidad y confianza garantizada."
+  },
+  "pages": [
+    {
+      "id": "home",
+      "hero": {
+        "title": "Jiao Jiao",
+        "subtitle": "Tu experto local en restaurant en Madrid",
+        "button_text": "Reservar Cita"
+      },
+      "layout": "elegant-gold",
+      "contact": {
+        "email": "info@jiao-jiao.aifactory.dev",
+        "phone": "+34 643 98 70 36",
+        "address": "Madrid"
+      },
+      "pricing": [
+        {
+          "name": "Básico",
+          "price": "Económico",
+          "features": [
+            "Servicio estándar",
+            "Garantía 30 días"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "Recomendado",
+          "features": [
+            "Prioridad máxima",
+            "Atención 24/7",
+            "Garantía extendida"
+          ]
+        }
+      ],
+      "features": [
+        {
+          "desc": "Priorizamos tu tiempo en Madrid.",
+          "icon": "Zap",
+          "title": "Atención Express"
+        },
+        {
+          "desc": "Seguridad y precisión en cada servicio de restaurant.",
+          "icon": "Shield",
+          "title": "Garantía Neural"
+        },
+        {
+          "desc": "Acabados y atención al detalle de alto nivel.",
+          "icon": "Star",
+          "title": "Calidad Premium"
+        }
+      ]
+    }
+  ],
+  "navbar": [
+    {
+      "href": "#inicio",
+      "label": "Inicio"
+    },
+    {
+      "href": "#servicios",
+      "label": "Servicios"
+    },
+    {
+      "href": "#pricing",
+      "label": "Tarifas"
+    },
+    {
+      "href": "#contacto",
+      "label": "Contacto"
+    }
+  ],
+  "updated_at": "2026-04-03T16:51:53.628Z"
+}
