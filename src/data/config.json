@@ -3,11 +3,11 @@
     "font": "Outfit",
     "colors": {
       "primary": "hsl(230, 40%, 5%)",
+      "text_muted": "hsl(230, 20%, 70%)",
       "accent_cyan": "hsl(180, 100%, 50%)",
-      "accent_amethyst": "hsl(270, 80%, 60%)",
       "surface_glass": "hsl(230, 30%, 15%)",
       "text_alabaster": "hsl(0, 0%, 98%)",
-      "text_muted": "hsl(230, 20%, 70%)"
+      "accent_amethyst": "hsl(270, 80%, 60%)"
     },
     "logo_text": "Jiao Jiao"
   },
@@ -44,5 +44,5 @@
       "label": "Contacto"
     }
   ],
-  "updated_at": "2026-04-03T23:24:16.126Z"
+  "updated_at": "2026-04-04T00:23:26.431Z"
 }
